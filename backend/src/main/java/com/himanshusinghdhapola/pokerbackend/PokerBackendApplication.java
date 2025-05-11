@@ -1,4 +1,4 @@
-package com.HimanshuSinghDhapola.pokergame.backend;
+package com.himanshusinghdhapola.pokerbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

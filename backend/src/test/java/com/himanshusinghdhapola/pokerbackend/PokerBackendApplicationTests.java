@@ -1,4 +1,4 @@
-package com.HimanshuSinghDhapola.pokergame.backend;
+package com.himanshusinghdhapola.pokerbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
