@@ -1,11 +1,12 @@
 import { useState } from 'react'
-import './App.css'
+import './App.css';
+import Card from "../src/Card/index";
 
 function App() {
 
   return (
     <>
-      <h1 className='text-9xl'>Poker game</h1>
+      <Card/>
     </>
   )
 }
